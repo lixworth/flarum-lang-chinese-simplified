@@ -44,5 +44,7 @@
       "code": "zh-Hans",
       "title": "简体中文"
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
