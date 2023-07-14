@@ -1,5 +1,5 @@
 {
-  "name": "flarum-lang/chinese-simplified",
+  "name": "lixworth/flarum-lang-chinese-simplified",
   "description": "Chinese language pack for Flarum 2021.",
   "keywords": [
     "flarum",
@@ -24,11 +24,7 @@
     "forum": "https://discuss.flarum.org/d/22690"
   },
   "require": {
-    "flarum/core": "^1.0.0"
-  },
-  "replace": {
-    "littlegolden/flarum-lang-simplified-chinese": "*",
-    "ffans/lang-simplified-chinese": "*"
+    "flarum/core": "^1.8"
   },
   "extra": {
     "flarum-extension": {
